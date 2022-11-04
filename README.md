@@ -1,3 +1,15 @@
+⚠️ This is a fork of the original [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) as a temporary workaround for several issues. Use at your own risk.
+
+This fork's main branch merges in the following open pull requests:
+
+* larsenwork/postcss-easing-gradients#14 - PostCSS 8 update
+
+* larsenwork/postcss-easing-gradients#18 - Chroma.js workaround for lack of `deg` unit support.
+
+Original readme follows:
+
+----
+
 # PostCSS Easing Gradients
 
 [![NPM Version][npm-img]][npm]
