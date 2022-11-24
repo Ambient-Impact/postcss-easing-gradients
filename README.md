@@ -150,7 +150,7 @@ See [PostCSS Usage](https://github.com/postcss/postcss#usage) docs for examples 
 
 ## Options
 
-### colorStops: 15
+### stops: 15
 
 is the default. A lower number creates a more "low poly" gradient with less code but a higher risk of banding.
 
