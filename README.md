@@ -1,4 +1,6 @@
-⚠️ This is a fork of the original [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) as a temporary workaround for several issues. Use at your own risk.
+⚠️ This is a fork of the original
+[larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients)
+as that package appears abandoned.
 
 This fork's main branch merges in the following open pull requests:
 
