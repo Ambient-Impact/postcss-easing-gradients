@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/neurocracy/front-end/postcss-easing-gradients.git"
+    "url": "git+https://gitlab.com/neurocracy/front-end/postcss-easing-gradients.git"
   },
   "keywords": [
     "postcss",
