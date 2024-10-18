@@ -2,6 +2,18 @@
 [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients)
 as that package appears abandoned.
 
+This fork can be installed with your package manager of choice (we recommend
+[Yarn](https://yarnpkg.com/)) as:
+
+```
+@neurocracy/postcss-easing-gradients
+```
+
+[Packages are published on NPM](https://www.npmjs.com/package/@neurocracy/postcss-easing-gradients).
+
+All development occurs on [this project's GitLab
+page](https://gitlab.com/neurocracy/front-end/postcss-easing-gradients); all issues or merge requests should be opened there.
+
 This fork's main branch merges in the following open pull requests:
 
 * [larsenwork/postcss-easing-gradients#13 - Fixes incorrect colour stop documentation](https://github.com/larsenwork/postcss-easing-gradients/pull/13).
