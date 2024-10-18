@@ -2,9 +2,11 @@
 
 This fork's main branch merges in the following open pull requests:
 
-* larsenwork/postcss-easing-gradients#14 - PostCSS 8 update
+* [larsenwork/postcss-easing-gradients#13 - Fixes incorrect colour stop documentation](https://github.com/larsenwork/postcss-easing-gradients/pull/13).
 
-* larsenwork/postcss-easing-gradients#18 - Chroma.js workaround for lack of `deg` unit support.
+* [larsenwork/postcss-easing-gradients#14 - Update to PostCSS 8](https://github.com/larsenwork/postcss-easing-gradients/pull/14).
+
+* [larsenwork/postcss-easing-gradients#18 - Chroma.js workaround for lack of `deg` unit support](https://github.com/larsenwork/postcss-easing-gradients/pull/18).
 
 Original readme follows:
 
